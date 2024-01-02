@@ -14,7 +14,7 @@ function toggleMenu() {
 
 function product(a) {
   localStorage.setItem('selectedProduct', a.value);
-  window.location = "http://127.0.0.1:5500/product.html";
+  window.location = "https://pqchien1905.github.io/web-project-product/";
 }
 
 const images = [
